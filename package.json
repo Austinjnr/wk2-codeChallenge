@@ -1,0 +1,20 @@
+{
+  "name": "wk2-codechallenge",
+  "version": "1.0.0",
+  "description": "voting for the cutest animal",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test",
+    "start": "npm start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Austinjnr/wk2-codeChallenge.git"
+  },
+  "author": "Austin Obonyo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Austinjnr/wk2-codeChallenge/issues"
+  },
+  "homepage": "https://github.com/Austinjnr/wk2-codeChallenge#readme"
+}
