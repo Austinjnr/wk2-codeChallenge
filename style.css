@@ -1,0 +1,16 @@
+#header{
+    text-align: center;
+    color: rgb(124, 109, 66);
+    font-family: 'Times New Roman';
+    font-size: 20px;
+}
+.animal{
+    padding: 25px 50px;
+    text-align: left;
+    font-family: Arial;
+    font-size: medium;
+}
+.img{
+    height: 100px;
+    width: 100px;
+}
