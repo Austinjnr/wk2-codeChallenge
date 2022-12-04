@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "npm test",
-    "start": "npm start"
+    "start": "json-server --watch db.json"
   },
   "repository": {
     "type": "git",
