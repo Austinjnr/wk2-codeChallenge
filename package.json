@@ -1,7 +1,7 @@
 {
   "name": "wk2-codechallenge",
   "version": "1.0.0",
-  "description": "voting for the cutest animal",
+  "description": "voting system",
   "main": "index.js",
   "scripts": {
     "test": "npm test",
